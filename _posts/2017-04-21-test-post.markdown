@@ -1,7 +1,0 @@
----
-title: Test Post
-date: 2017-04-21 00:43:00 Z
-is featured: true
----
-
-Some content
